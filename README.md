@@ -10,3 +10,4 @@ buongiorno
 - AFFORI CENTRO
 - DERGANO
 - MACIACHINI
+- ZARA
