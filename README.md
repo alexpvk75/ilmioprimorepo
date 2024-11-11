@@ -13,3 +13,4 @@ buongiorno
 - ZARA
 - SONDRIO
 - CENTRALE FS
+- REPUBBLICA
