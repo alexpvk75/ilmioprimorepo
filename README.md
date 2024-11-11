@@ -6,3 +6,4 @@ buongiorno
 ## Fermate della metro di Milano
 ### Metro Gialla
 - COMASINA
+- AFFORI FN
