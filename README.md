@@ -19,3 +19,4 @@ buongiorno
 - DUOMO
 - MISSORI
 - CROCETTA
+- P.TA ROMANA
