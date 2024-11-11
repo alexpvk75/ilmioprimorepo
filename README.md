@@ -12,3 +12,4 @@ buongiorno
 - MACIACHINI
 - ZARA
 - SONDRIO
+- CENTRALE FS
