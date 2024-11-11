@@ -11,3 +11,4 @@ buongiorno
 - DERGANO
 - MACIACHINI
 - ZARA
+- SONDRIO
