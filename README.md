@@ -14,3 +14,4 @@ buongiorno
 - SONDRIO
 - CENTRALE FS
 - REPUBBLICA
+- TURATI
