@@ -24,3 +24,4 @@ buongiorno
 - LIMA
 - LORETO
 - PASTEUR
+- ROVERETO
