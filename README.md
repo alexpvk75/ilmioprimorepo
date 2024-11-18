@@ -27,3 +27,4 @@ buongiorno
 - ROVERETO
 - TURRO
 - GORLA
+- PRECOTTO
