@@ -26,3 +26,4 @@ buongiorno
 - PASTEUR
 - ROVERETO
 - TURRO
+- GORLA
