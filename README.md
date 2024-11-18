@@ -15,3 +15,4 @@ buongiorno
 - CENTRALE FS
 ### Metro Verde
 - CAIAZZO
+- LORETO
