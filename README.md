@@ -19,3 +19,4 @@ buongiorno
 - DUOMO
 ### Metro Rossa
 - SAN BABILA
+- PALESTRO
