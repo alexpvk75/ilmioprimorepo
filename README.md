@@ -13,3 +13,5 @@ buongiorno
 - ZARA
 - SONDRIO
 - CENTRALE FS
+### Metro Verde
+- CAIAZZO
