@@ -28,3 +28,4 @@ buongiorno
 - TURRO
 - GORLA
 - PRECOTTO
+- VILLA SAN GIOVANNI
