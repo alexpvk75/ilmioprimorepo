@@ -19,3 +19,4 @@ buongiorno
 - PIOLA
 - LAMBRATE FS
 - UDINE
+- CIMIANO
