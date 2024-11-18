@@ -22,3 +22,4 @@ buongiorno
 - PALESTRO
 - PORTA VENEZIA
 - LIMA
+- LORETO
