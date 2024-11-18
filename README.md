@@ -23,3 +23,4 @@ buongiorno
 - PORTA VENEZIA
 - LIMA
 - LORETO
+- PASTEUR
