@@ -25,3 +25,4 @@ buongiorno
 - LORETO
 - PASTEUR
 - ROVERETO
+- TURRO
