@@ -17,3 +17,5 @@ buongiorno
 - TURATI
 - MONTENAPOLEONE
 - DUOMO
+### Metro Rossa
+- SAN BABILA
