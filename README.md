@@ -18,3 +18,4 @@ buongiorno
 - LORETO
 - PIOLA
 - LAMBRATE FS
+- UDINE
