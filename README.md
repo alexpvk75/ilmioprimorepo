@@ -22,3 +22,4 @@ buongiorno
 ### Metro Blu
 - TRICOLORE
 - DATEO
+- SUSA
