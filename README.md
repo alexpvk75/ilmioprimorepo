@@ -13,3 +13,4 @@ buongiorno
 - ZARA
 ### Metro Lilla
 - MARCHE
+- ISTRIA
