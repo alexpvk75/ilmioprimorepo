@@ -36,3 +36,4 @@ buongiorno
 - P.TA GENOVA FS
 - ROMOLO
 - FAMAGOSTA
+- ASSAGO NORD
