@@ -27,3 +27,4 @@ buongiorno
 - CAIAZZO
 - CENTRALE FS
 - GIOIA
+- GARIBALDI
