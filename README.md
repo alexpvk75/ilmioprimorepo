@@ -26,3 +26,4 @@ buongiorno
 ### Metro Verde Sud
 - CAIAZZO
 - CENTRALE FS
+- GIOIA
