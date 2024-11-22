@@ -35,3 +35,4 @@ buongiorno
 - S. AGOSTINO
 - P.TA GENOVA FS
 - ROMOLO
+- FAMAGOSTA
