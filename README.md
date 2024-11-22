@@ -30,3 +30,4 @@ buongiorno
 - GARIBALDI
 - MOSCOVA
 - LANZA
+- CADORNA FN
