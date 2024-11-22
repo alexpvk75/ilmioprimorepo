@@ -33,3 +33,4 @@ buongiorno
 - CADORNA FN
 - S. AMBROGIO
 - S. AGOSTINO
+- P.TA GENOVA FS
