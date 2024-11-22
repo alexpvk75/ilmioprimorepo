@@ -29,3 +29,4 @@ buongiorno
 - GIOIA
 - GARIBALDI
 - MOSCOVA
+- LANZA
