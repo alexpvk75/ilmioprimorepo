@@ -25,3 +25,4 @@ buongiorno
 - LORETO
 ### Metro Verde Sud
 - CAIAZZO
+- CENTRALE FS
